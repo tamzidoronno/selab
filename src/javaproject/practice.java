@@ -1,6 +1,8 @@
 package javaproject;
 
 public class practice {
+
+	//new version 1.2
 	
 	private String name;
 	private String hall;
